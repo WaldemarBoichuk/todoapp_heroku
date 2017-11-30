@@ -1,0 +1,4 @@
+= Simple plan for day
+== Week 6 of my 12 in 12 Challenge
+
+Today I built a simple todo app in Rails 5. You're actually on the demo application right now. Cool stuff, right!.
